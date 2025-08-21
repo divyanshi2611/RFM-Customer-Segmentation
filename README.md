@@ -12,12 +12,6 @@ RFM-Customer-Segmentation/
 ├── .gitignore
 └── .venv/ # Virtual environment (optional)
 
-yaml
-Copy
-Edit
-
----
-
 ## 🔍 Overview
 
 1. Extracts behavioral customer metrics (**RFM**)
@@ -27,21 +21,21 @@ Edit
 
 ---
 
-## 🚀 How to Use
+🚀 How to Use
 
-### 1. Clone the repository
+**1. Clone the repository**
 ```bash
 git clone https://github.com/divyanshi2611/RFM-Customer-Segmentation.git
 cd RFM-Customer-Segmentation
-2. Install dependencies
+---
+
+**2. Install dependencies**
 Create and activate a virtual environment (recommended):
 
-bash
-Copy
-Edit
 python -m venv .venv
 source .venv/bin/activate  # On Windows use `.venv\Scripts\activate`
 pip install pandas numpy matplotlib seaborn scikit-learn notebook
+
 3. Download the dataset
 Download OnlineRetail.csv from Kaggle and place it in the project folder.
 
