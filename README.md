@@ -9,8 +9,11 @@ This project performs **customer segmentation** using **Recency, Frequency, Mone
 RFM-Customer-Segmentation
 
 │
+
 ├── rfm_segmentation.ipynb # Jupyter notebook with the full pipeline
+
 ├── .gitignore
+
 └── .venv/ # Virtual environment (optional)
 
 ## 🔍 Overview
